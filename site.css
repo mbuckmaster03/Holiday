@@ -1,0 +1,22 @@
+/*  Matthew Buckmaster
+    03/30/2021
+*/
+
+body {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+h1 {
+    font-size: 250px;
+    text-align: center;
+    margin: 0;
+    margin-top: 150px;
+}
+
+h3 {
+    font-size: 100px;
+    text-align: center;
+    margin: 0;
+    margin-top: 40px;
+}
